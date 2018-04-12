@@ -1,10 +1,4 @@
-#include <iostream>
-#include <stdlib.h>
-#include <vector>
-#include <string>
-#include <fstream>
-#include <iostream>
-using namespace std;
+#include "Header.h"
 
 vector<string> fileParser(string filename) {
 	string word;
